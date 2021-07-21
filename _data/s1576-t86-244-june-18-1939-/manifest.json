@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "S1576 , T86-244 (June 18, 1939)" ] },
+    "homepage": [
+      {
+        "id": "https://www.floridamemory.com/items/show/238022",
+        "type": "Text",
+        "label": { "en": [ "S1576 , T86-244 (June 18, 1939)" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.floridamemory.com/",
+        "type": "Agent",
+        "label": { "en": [ "Florida Memory Project" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3400.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.floridamemory.com/fpc/memory/Collections/folklife/folklife-MP3/T86-244.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 3400.0
+                },
+                "target": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
