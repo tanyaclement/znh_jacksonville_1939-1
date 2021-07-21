@@ -23,6 +23,14 @@
         "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3530.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas/notes.json",
+            "label": "Notes"
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/paintings",
