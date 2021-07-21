@@ -36,6 +36,12 @@
             "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas/library-of-congress-notation.json",
             "label": "Library of Congress notation"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas/songs.json",
+            "label": "Songs"
+          }
         ],
         "items": [
           {
