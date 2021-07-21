@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "S1576 , T86-243 (June 18, 1939)" ] },
+    "label": { "en": [ "S1576 , T86-243" ] },
     "homepage": [
       {
         "id": "https://www.floridamemory.com/items/show/238024",
         "type": "Text",
-        "label": { "en": [ "S1576 , T86-243 (June 18, 1939)" ] },
+        "label": { "en": [ "S1576 , T86-243" ] },
         "format": "text/html"
       }
     ],
