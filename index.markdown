@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Testing.
+Transccription and edition by Tanya Clement, 2021
