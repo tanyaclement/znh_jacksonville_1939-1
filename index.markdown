@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Transccription and edition by Tanya Clement, 2021
+Transccription and edition by Tanya Clement, July 2021
