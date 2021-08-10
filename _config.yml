@@ -26,9 +26,11 @@ url: "https://tanyaclement.github.io/znh_jacksonville_1939" # the base hostname 
 github_username:  tanyaclement
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: "hipstas/AudiAnnotateTheme"
 
 collections:
   items:
