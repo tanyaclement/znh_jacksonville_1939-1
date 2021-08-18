@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://example.com/collection.json",
     "type": "Collection",
-    "label": { "en": [ "Zora Neal Hurston, Works Progress Administration Recordings, Jacksonville, FL 1939" ] },
+    "label": { "en": [ "Zora Neale Hurston, Works Progress Administration Recordings, Jacksonville, FL 1939" ] },
     "summary": { "en": [ "Zora Neale Hurston's WPA field recordings in Jacksonville, FL made for the Library of Congress on June 18, 1939 with Herbert Halpert recording." ] },
     "items": [
     ]
