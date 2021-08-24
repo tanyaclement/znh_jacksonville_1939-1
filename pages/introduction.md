@@ -4,11 +4,11 @@ title: Introduction
 permalink: introduction
 ---
 This edition “Zora Neale Hurston's WPA field recordings in Jacksonville, FL (1939)” includes three recordings created during the Works Projects Administration (WPA) Federal Writers Project (FWP) on June 18, 1939 that allow us to overhear some of the complexities that played out in the varied contexts of Hurston’s fieldwork. The WPA was a work-relief program created in 1935 by the Roosevelt Administration. The FWP included the Folklore Section. These specific recordings, recorded on June 18, 1939 in the WPA offices in Jacksonville, Florida under the direction of Herbert Halpert with Carita Doggett Corse (FWP Director) and Stetson Kennedy, include Hurston performing songs she had collected during her fieldwork.<br/>
-*Tanya Clement, July 2021*
+**Tanya Clement, July 2021**
 
 ---
 
-*Preferred citation*<br/>
+**Preferred citation**<br/>
 _Works Progress Administration Recordings, Jacksonville, FL 1939_. Transcribed and edited by Tanya Clement, 2021. WPA field recordings in Jacksonville (1939 recording expedition: Herbert Halpert). 1939-06-18. State Archives of Florida, Florida Memory. https://tanyaclement.github.io/znh_jacksonville_1939.
 
 ---
@@ -41,12 +41,15 @@ Asked if this is the same way she collected the songs she published in the journ
 
 
 *Works Cited*
+Harney, Daniel. “Scholarship and the Modernist Public: Zora Neale Hurston and the Limitations of Art and Disciplinary Anthropology.” _Modernism/Modernity_, vol. 22, no. 3, Johns Hopkins University Press, 2015, pp. 471–92.
+Hemenway, Robert. “Folklore Field Notes From Zora Neale Hurston.” The Black Scholar, vol. 7, no. 7, 1976, pp. 39–46.
 Hurston, Zora Neale. _Barracoon: The Story of the Last “Black Cargo”_ First edition., Amistad, an imprint of HarperCollins Publishers, 2018.
 ---. _Every Tongue Got to Confess: Negro Folk-Tales from the Gulf States_. 1st ed., HarperCollins Publishers, 2001.
----. _Go Gator and Muddy the Water: Writings_. 1st ed., W WNorton, 1999.
+---. _Go Gator and Muddy the Water: Writings_. 1st ed., W W. Norton, 1999.
 ---. “Halimuhfack.” Florida Folklife from the WPA Collections, 1937-1942, The Library of Congress (1939).
 ---. _Mules and Men_. JBLippincott Co, 1935.
 ---. _Their Eyes Were Watching God_. 75th Anniversary edition, Amistad, 2006.
+Pizzolato, Nicola. “Harvests of Shame: Enduring Unfree Labour in the Twentieth-Century United States, 1933–1964.” _Labor History_, vol. 59, no. 4, Routledge, July 2018, pp. 472–90. Taylor and Francis+NEJM, https://doi.org/10.1080/0023656X.2018.1467259.
 
 
 
