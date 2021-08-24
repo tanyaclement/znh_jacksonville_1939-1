@@ -4,7 +4,7 @@ title: Introduction
 permalink: introduction
 ---
 This edition “Zora Neale Hurston's WPA field recordings in Jacksonville, FL (1939)” includes three recordings created during the Works Projects Administration (WPA) Federal Writers Project (FWP) on June 18, 1939 that allow us to overhear some of the complexities that played out in the varied contexts of Hurston’s fieldwork. The WPA was a work-relief program created in 1935 by the Roosevelt Administration. The FWP included the Folklore Section. These specific recordings, recorded on June 18, 1939 in the WPA offices in Jacksonville, Florida under the direction of Herbert Halpert with Carita Doggett Corse (FWP Director) and Stetson Kennedy, include Hurston performing songs she had collected during her fieldwork.<br/>
-Tanya Clement, July 2021.
+*Tanya Clement, July 2021*
 
 ---
 
@@ -39,6 +39,14 @@ Asked if this is the same way she collected the songs she published in the journ
 
 [^1] Stetson Kennedy often indicates that [his was the voice asking Zora Neale Hurston questions](https://www.npr.org/templates/story/story.php?storyId=1138968) in these recordings but the Florida Memory metadata does not indicate this fact, so I have labeled the voice “HH” for Herbert Halpert.
 
+
+*Works Cited*
+Hurston, Zora Neale. _Barracoon: The Story of the Last “Black Cargo”_ First edition., Amistad, an imprint of HarperCollins Publishers, 2018.
+---. _Every Tongue Got to Confess: Negro Folk-Tales from the Gulf States_. 1st ed., HarperCollins Publishers, 2001.
+---. _Go Gator and Muddy the Water: Writings_. 1st ed., W WNorton, 1999.
+---. “Halimuhfack.” Florida Folklife from the WPA Collections, 1937-1942, The Library of Congress (1939).
+---. _Mules and Men_. JBLippincott Co, 1935.
+---. _Their Eyes Were Watching God_. 75th Anniversary edition, Amistad, 2006.
 
 
 
