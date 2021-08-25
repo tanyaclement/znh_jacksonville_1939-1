@@ -41,16 +41,16 @@ Asked if this is the same way she collected the songs she published in the journ
 
 
 **Works Cited**<br/>
-Harney, Daniel. “Scholarship and the Modernist Public: Zora Neale Hurston and the Limitations of Art and Disciplinary Anthropology.” _Modernism/Modernity_, vol. 22, no. 3, Johns Hopkins University Press, 2015, pp. 471–92.
-Hemenway, Robert. “Folklore Field Notes From Zora Neale Hurston.” The Black Scholar, vol. 7, no. 7, 1976, pp. 39–46.
-Hurston, Zora Neale. _Barracoon: The Story of the Last “Black Cargo”_ First edition., Amistad, an imprint of HarperCollins Publishers, 2018.
----. _Every Tongue Got to Confess: Negro Folk-Tales from the Gulf States_. 1st ed., HarperCollins Publishers, 2001.
----. _Go Gator and Muddy the Water: Writings_. 1st ed., W W. Norton, 1999.
----. “Halimuhfack.” Florida Folklife from the WPA Collections, 1937-1942, The Library of Congress (1939).
----. _Mules and Men_. JBLippincott Co, 1935.
----. _Their Eyes Were Watching God_. 75th Anniversary edition, Amistad, 2006.
----. _Zora Neale Hurston: A Life in Letters_. Edited by Carla Kaplan, 1st ed., Doubleday, 2002.
-Pizzolato, Nicola. “Harvests of Shame: Enduring Unfree Labour in the Twentieth-Century United States, 1933–1964.” _Labor History_, vol. 59, no. 4, Routledge, July 2018, pp. 472–90. Taylor and Francis+NEJM, https://doi.org/10.1080/0023656X.2018.1467259.
+Harney, Daniel. “Scholarship and the Modernist Public: Zora Neale Hurston and the Limitations of Art and Disciplinary Anthropology.” _Modernism/Modernity_, vol. 22, no. 3, Johns Hopkins University Press, 2015, pp. 471–92.<br/>
+Hemenway, Robert. “Folklore Field Notes From Zora Neale Hurston.” The Black Scholar, vol. 7, no. 7, 1976, pp. 39–46.<br/>
+Hurston, Zora Neale. _Barracoon: The Story of the Last “Black Cargo”_ First edition., Amistad, an imprint of HarperCollins Publishers, 2018.<br/>
+---. _Every Tongue Got to Confess: Negro Folk-Tales from the Gulf States_. 1st ed., HarperCollins Publishers, 2001.<br/>
+---. _Go Gator and Muddy the Water: Writings_. 1st ed., W W. Norton, 1999.<br/>
+---. “Halimuhfack.” Florida Folklife from the WPA Collections, 1937-1942, The Library of Congress (1939).<br/>
+---. _Mules and Men_. JBLippincott Co, 1935.<br/>
+---. _Their Eyes Were Watching God_. 75th Anniversary edition, Amistad, 2006.<br/>
+---. _Zora Neale Hurston: A Life in Letters_. Edited by Carla Kaplan, 1st ed., Doubleday, 2002.<br/>
+Pizzolato, Nicola. “Harvests of Shame: Enduring Unfree Labour in the Twentieth-Century United States, 1933–1964.” _Labor History_, vol. 59, no. 4, Routledge, July 2018, pp. 472–90. Taylor and Francis+NEJM, https://doi.org/10.1080/0023656X.2018.1467259.<br/>
 
 
 
