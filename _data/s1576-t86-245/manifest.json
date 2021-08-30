@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/library-of-congress.json",
+            "label": "Library of Congress"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs.json",
             "label": "Songs"
           }
