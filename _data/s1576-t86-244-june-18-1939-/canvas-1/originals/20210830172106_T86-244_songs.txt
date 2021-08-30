@@ -3,8 +3,8 @@
 826.549587	953.770661	ZNH sings 'Uncle Bud'
 989.333678	1036.596074	ZNH sings 'Oh the Buford Boat Done Come'
 1077.427686	1188.378099	ZNH sings 'Cuz Ever Been Down'
-1210.692149	1269.034091	ZNH sings 'Halimufack'
-1339.630127	1386.802686	ZNH sings Tampa
+1210.692149	1269.034091	ZNH sings 'Halimuhfack'
+1339.630127	1386.802686	ZNH sings 'Tampa'
 1438.171488	1583.057851	ZNH sings 'Po Boy'
 1623.424587	1728.719008	ZNH sings 'Mama Don't Want No Peas No Rice'
 2000.427246	2025.309917	HWS sings
@@ -26,5 +26,5 @@
 3021.539256	3033.316116	MF chants a game
 3078.409091	3095.764463	MF sings a song
 3100.258264	3100.258264	MF demonstrates a game
-3168.595041	3228.56405	Man sings 'the Captain's Mule'
-3236.77686	3300.929752	Man sings a song
+3168.595041	3228.56405	Hazelhurst sings 'The Captain's Mule'
+3236.77686	3300.929752	Hazelhurst sings "John Henry"
