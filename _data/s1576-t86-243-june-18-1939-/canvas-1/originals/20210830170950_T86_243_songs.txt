@@ -30,10 +30,11 @@
 1980.383492	2139.207982	Woman singing with ukulele
 2149.401542	2247.134331	Woman singing
 2273.697959	2432.708209	Woman singing
-2440.324354	2487.507302	Women singing and clapping
-2492.329276	2492.329276	Women singing and clapping
-2752.552948	2883.082449	ZNH sings 'Gonna See My Long-Haired Babe'
-3028.728014	3028.728014	ZNH chants
-3116.963198	3116.963198	ZNH chants
-3157.820952	3157.820952	ZNH chants
+2440.324354	2487.507302	Children singing and clapping
+2492.329276	2492.329276	Children singing and clapping
+42:45	42:45	Men singing
+46:27	2883.082449	ZNH sings 'Gonna See My Long-Haired Babe'
+3028.728014	3028.728014	ZNH chants 'Let's Shake It'
+3116.963198	3116.963198	ZNH chants 'Let's Shake It'
+3157.820952	3157.820952	ZNH chants 'That Old Black Gal'
 3251.304490	3251.304490	ZNH sings 'Shove it over'
