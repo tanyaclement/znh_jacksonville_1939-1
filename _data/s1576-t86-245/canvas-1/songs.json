@@ -1,0 +1,785 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs.json",
+  "type": "AnnotationPage",
+  "label": "Songs",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "HBH sings 'John Henry'",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "24.356802,96.879865"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "HBH sings 'There's a Big Day in Atlanta'",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "304.699624,363.481942"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "HWS preaches",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "411.853900,574.802287"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "HWS sings",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "599.387150,609.695459"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ZNH sings 'Wake Up Jacob'",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "646.672939,708.217356"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ZNH sings 'Oh Mr. Brown'",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "744.537810"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ZNH sings 'Tilly, Lend me Your Pigeon'",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "798.574706,840.172840"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Estella sings with piano, drums, maracas",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1044.149656,1103.582078"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Carlos Poz sings with piano, maracas, and drums",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1168.123042,1271.297362"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman sings in Spanish with drums, maracas, and piano",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1423.458958,1537.169647"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gilberto Elfino sings with piano",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1656.444998,1730.792541"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Slow rumba is played",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1859.076260,1870.182779"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Faster rumba is played",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1871.642363,1873.603679"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A Bembe is played",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1882.851509"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A conga is played",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1893.376476,1902.225202"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A mané is played",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1904.334756,1912.259839"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Man singing",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1948.954685,2088.299312"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Man sings",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2103.533716,2125.883591"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Roberts sings",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2187.094880,2233.619109"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Roberts sings",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2240.734579,2337.158324"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Roberts sings 'Sweet Robin One Morning in May'",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2354.764552,2391.162920"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Roberts sings",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2459.717739,2538.215973"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman sings",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2543.689411,2630.899535"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman sings",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2634.730942,2663.375271"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman sings 'Yankee Doodle'",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2684.904130,2706.615437"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman tells a story",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2707.071556,2773.573837"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman recites a ballad",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2776.036884,2802.309390"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman tells a story",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2803.768973,2814.442179"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman sings a song",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2819.550722,2827.669656"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman tells a story",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2831.044943,2842.539164"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman sings a song",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2846.553019,2866.348623"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman sings a song",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2871.457165,2942.885540"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman sings a song",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2955.656897,2984.848570"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman sings a song",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2998.714615,3096.871616"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman sings a song",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3098.148751,3112.014796"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Woman sings multiple version of same song",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3126.245737,3152.335795"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Man recites riddles",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3188.095594,3321.829946"
+        }
+      }
+    }
+  ]
+}
