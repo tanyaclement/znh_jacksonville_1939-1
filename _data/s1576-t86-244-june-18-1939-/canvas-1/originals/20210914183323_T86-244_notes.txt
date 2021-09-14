@@ -49,7 +49,7 @@
 324.251033	325.878099	SK: Alright. Go ahead.
 326.652893	333.626033	BL: Uh, this story happened during the fall of 1898 upon a small island off of the coast of Georgia
 334.207128	343.155992	BL: Where the sea level was very low. Came a hurricane which covered the whole island in several feet of water and most of the natives had to swim around in their homes.
-343.543388	350.40031	BL: One particular instance which calls to mind is that of an old negra owned by one of the early rice planters.
+343.543388	350.40031	BL: One particular instance which calls to mind is that of an old negrum owned by one of the early rice planters.
 351.252583	362.332128	BL: He tells: Yes sir, we were swimming around in that water trying to find a shallow place when we seen some of them pretty long neck bottles floating around. Look like them water in 'em.
 362.874483	376.510847	BL: So we drink some and before long we was glad to have some been come because it sure made us feel good. Sure wish I could have some of that stuff now. Boss, I believe that been shampoo.
 377.556818	382.166839	BL: Further on the flooded plantation, the boss paddled his canoe up to the loft of the barn.
@@ -113,11 +113,11 @@
 1431.547004	1436.621901	ZNH: I'm - no, not all my life but I kept learning verses as I've gone around.
 26:33	26:33	ZNH: How do you want this?
 1593.052686	1594.757231	SK: Just play it for me in ballad.
-1595.067923	1621.487603	ZNH: 'Mama Don't Want No Peas No Rice' is a song from Nassau in the Bahama islands. They are great song makers and their tunes are decidedly more African than the ones made my the negroes in America. They make songs so rapidly they say 'Anything you do we put you in sing'. And in a few hours they have a song about it. Mama don't want no peas no rice is about a woman who wanted to stay drunk all the time and her husband is really complaining about it. He's explaining to the neighbors what's the matter with his wife and why they don't get along better.
+1595.067923	1621.487603	ZNH: 'Mama Don't Want No Peas No Rice' is a song from Nassau in the Bahama islands. They are great song makers and their tunes are decidedly more African than the ones made by the negroes in America. They make songs so rapidly they say 'Anything you do we put you in sing'. And in a few hours they have a song about it. Mama don't want no peas no rice is about a woman who wanted to stay drunk all the time and her husband is really complaining about it. He's explaining to the neighbors what's the matter with his wife and why they don't get along better.
 27:44	27:44	[Distortion]
 28:44	28:44	[Distortion]
 28:57	28:57	SK: Your name, age?
-1738.028537	1832.519531	EW: Evelyn Werner, 32.
+1738.028537	29:05	EW: Evelyn Werner, 32.
 29:05	29:05	SK: And where were you brought up?
 29:06	29:06	EW: I was born and raised in Jacksonville, studied voice in Chicago but never went to college.
 29:16	29:16	SK: Uh, huh, What do you mean 'voice'? Singing?
@@ -126,11 +126,11 @@
 29:25	29:25	EW: Well, as far as the life goes, yes but I'd go to Philadelphia for a while and come back and go to Chicago for a while and come back.
 29:34	29:54	SK: Alright, now you'll tell the story. Apparently the interest in the story is just to have you talk naturally and at the same time, we'll have the story. So, would you try --
 29:44	29:44	Man: Go ahead.
-29:45	29:45	EW: Well, this story was told to me two years ago by one of the heirs to the Reed Plantation, Mulberry Grove, which is just south of Jacksonville. She said that right after the war when the slaves were freed she gave, told Mariah the cook of her freedom and gave her the house at the end of the field to live in. So Mariah and all of her children set out and the youngest and the tiniest at the end of the line would fall down and get up, fall down again and get up.  So Mrs. Pearson called to Mariah and said, 'You're losing one of your children, Mariah'. And Mariah turned back and said, 'You can have that one, Miss. Pearson, if you wants it. That's all
+29:45	29:45	EW: Well, this story was told to me two years ago by one of the heirs to the Reed Plantation, Mulberry Grove, which is just south of Jacksonville. She said that right after the war when the slaves were freed she gave, she told Mariah the cook of her freedom and gave her the house at the end of the field to live in. So Mariah and all of her children set out and the youngest and the tiniest at the end of the line would fall down and get up, fall down again and get up.  So Mrs. Pearson called to Mariah and said, 'You're losing one of your children, Mariah'. And Mariah turned back and said, 'You can have that one, Miss. Pearson, if you wants it.' That's all.
 1838.623047	1844.055176	SK: Dr. Corse would you please explain why did we ask to have this record made?
 1844.055176	1863.15918	CC: This record was made for the purpose of recording the annunciation of an educated Southern white voice. And the story was one which was recorded by the Federal Writers as part of their work for the American guide series volume that's Florida.
 1865.29541	1867.919922	 Someone says: Educated white woman.
-1873.168945	1874.328613	SK: Dr. Corse will please introduce the speaker?
+1873.168945	1874.328613	SK: Dr. Corse will you please introduce the speaker?
 1875.427246	1890.930176	CC: This is Mrs. Rolla Southworth, State Director of the Professional Service Projects of the WPA in Florida who will give us her opinion of the recording program of the folk songs in Florida.
 1891.662598	1934.039256	Rolla Southworth: Well, Dr. Corse it would really seem that we have finally grown up as a nation that we can spend the day recording such folklore as we have heard today. And this is only the beginning and in only one city. Think of the endless material alone throughout Florida. Now although we are in the deep South, our state, with Mr. Call, has a very cosmopolitan group. As a matter of fact, the flags of five nations have flown over Florida. Isn't that a fact? And what a wealth of material that will indicate. Personally, my greatest interest is in the Negro Folklore and how justly proud we all are of Zora Hurston whose fine literary ability and wealth of experience has made our recordings possible today.
 32:19	32:19	[Distortion]
@@ -190,8 +190,7 @@
 2532.257231	2534.271694	IJ: I'll be 40 my next birthday.
 2535.666322	2536.596074	SK: And where were you brought up?
 2537.13843	2538.610537	IJ: In South Jacksonville, FL.
-2539.540289	2541.709711	SK: And what is it, tell us about what you are about to sing?
-2539.540289	2539.540289	SK: Tell us about what you're going to sing.
+2539.540289	2541.709711	SK: And what is it, tell us about what you are going to sing?
 2543.104339	2543.104339	IJ: It's just a play we used to have when we were children and we would be playing church and then rather than sing church songs, we'd make up our songs and we called it our 'play church'.
 42:37	42:37	SK: You did? Well, woud you start in with?
 2560.459711	2564.488636	SK: When you were small did you play it with a guitar.
@@ -213,7 +212,7 @@
 2669.860537	2669.860537	SK: Uh-huh
 2711.791992	2718.383789	IJ: The closing part of children's sermon that we used to have.
 45:47	45:47	[Laughter]
-2761.474609	2764.772727	AS: Alabama Singleton, 33
+2761.474609	2764.772727	AS: Alabama Singleton. I am 33-years-old.
 2765.005165	2766.283574	SK: And where were you brought up?
 2766.438533	2766.438533	AS: Savannah, GA
 2768.336777	2771.43595	SK: And, uh, what are you going to [inaudible]
@@ -223,14 +222,14 @@
 2783.21281	2784.762397	SK: Alright. Sing.
 46:43	46:43	[Distortion]
 2832.024793	2835.123967	SK: How did they play that?
-2835.743802	2835.743802	AS: A ring play, yes. When you say 'go all around the maple' you'll join hands and be going around the ring and then you're showing your emotion and doing a little dance.
+2835.743802	2835.743802	AS: A ring play, yes. When you say 'go all around the maypole' you'll join hands and be going around the ring and then you're showing your emotion and doing a little dance.
 2843.956612	2843.956612	SK: Well now, how do you, was there somebody [inaudible].
 2845.661157	2845.661157	AS: In the middle of the ring and the rest of the children would be patting their hands.
 2849.690083	2849.690083	SK: Could you pat the way they did? Take it over again and do the patting.
 2851.239669	2851.239669	AS: Yes.
 2855.423554	2855.423554	AS: Alright
 2857.438017	2857.438017	SK: Alright
-2858.520508	2862.86157	AS: Well, when you throw around the maple you doesn't pat because your hands be joined then.
+2858.520508	2862.86157	AS: Well, when you throw around the maypole you doesn't pat because your hands be joined then.
 2862.86157	2862.86157	SK: Oh, I see, well sing that and don't do your hands [Inaudible].
 48:16	48:16	SK: Now, what kind of motion would they do?
 48:18	48:18	AS: Oh, shucks. There'd be motion of their feets. [Laughter]
@@ -241,12 +240,15 @@
 3004.64876	3005.714101	SK: And how old are you?
 3006.062758	3006.740702	MF: 43
 3008.445248	3008.445248	SK: Tell us about this game. Where you learned it.
-3011.815599	3020.841942	SK: Well I learned it at my home in Leesville, SC, a little childhood play. The play goes like this.
+3011.815599	3020.841942	MF: Well I learned it at my home in Leesville, South Carolina, a little childhood play. The play goes like this.
 3035.020661	3040.134298	SK: Well, what, how did it go on? What else happened? What happened in the game?
 3040.134298	3044.201963	MF: Well, the children would act as if they were flying like the turkeys.
-3045.092975	3051.717459	SK: As if they were flying like a turkey? How was it played and how did they start off playing?
-3051.717459	3074.070248	MF: Well they start off playing all over so you'd be standing around. In one, they said 'Little girl, little girl have you been to the barn' and everyone said, yes Ma'am. And they answered 'Did you see my turkey?'' You say 'Yes Ma'am'. And you say 'How high did it fly' and you say 'So high' and then everybody stretched their arms up as if it was the wingspan.
+3045.092975	3051.717459	SK: As if they were flying like a turkey? How was it played and how did they start off play	ing?
+3051.717459	3074.070248	MF: So they start off playing all over so if you're standing around and one would say 'Little girl, little girl have you been to the barn' and everyone said, yes Ma'am. And they answered 'Did you see my turkey?'' You say 'Yes Ma'am'. And you say 'How high did it fly' and you say 'So high' and then everybody stretched their arms up as if it was the wingspan.
 51:09	51:09	SK: Now you'll have to talk a little bit louder now on the next game.
+51:12	51:12	MF: Alright
+51:19	51:21	MF: Just a little barnyard play
+51:21	51:23	SK: Alright. How does it go?
 3136.673554	3166.42562	Harold B. Hazelhurst (HBH): I'm 30 yrs old, born in Georgia, reared in Florida, a water boy on the Marlboro camp, introduces a song.
 3141.244835	3142.639463	SK: And where were you brought up?
 3142.716942	3145.428719 HBH: I was born in Georgia and reared in Florida.
@@ -276,4 +278,4 @@
 3367.98812	3380.384814	SK: [Banging] Alright. Can you, You can double-drive as long as you don't double-drive on the microphone. Alright. That's fine. Now, uh, and, This is 'John' -- you were telling me that this 'John Henry' wasn't sung the same way always? I mean, they wouldn't begin --
 3380.423554	3391.580579	HBH: Well, no, they wouldn't begin at the same place all the time. Sometimes they'd begin when he was only six months old or perhaps they would begin by John Henry he had a little woman.
 3391.580579	3395.028409	SK: Well now tell me, uh, but did they always have the same tune to it?
-3395.028409	3400.72314	HBH: Oh yes, they'd have the same tune but different wording. They would make up words all the time.
+3395.028409	3400.72314	HBH: Oh yes, they had the same tune all the time but different wording. You know. They would make up words all the time.
