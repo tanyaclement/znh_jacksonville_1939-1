@@ -27,12 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/notes.json",
-            "label": "Notes"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/library-of-congress.json",
             "label": "Library of Congress"
           }
