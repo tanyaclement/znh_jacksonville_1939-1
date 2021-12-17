@@ -9,7 +9,7 @@ This edition “Zora Neale Hurston's WPA field recordings in Jacksonville, FL (1
 ---
 
 **Preferred citation**<br/>
-_Works Progress Administration Recordings, Jacksonville, FL 1939_. Transcribed and edited by Tanya Clement, 2021. WPA field recordings in Jacksonville (1939 recording expedition: Herbert Halpert). 1939-06-18. State Archives of Florida, Florida Memory. https://tanyaclement.github.io/znh_jacksonville_1939.
+Hurston, Zora Neale. _Works Progress Administration Recordings, Jacksonville, FL 1939_. Transcribed and edited by Tanya Clement, 2021. WPA field recordings in Jacksonville (1939 recording expedition: Herbert Halpert). 1939-06-18. State Archives of Florida, Florida Memory. https://tanyaclement.github.io/znh_jacksonville_1939.
 
 ---
 
