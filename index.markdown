@@ -5,7 +5,7 @@
 layout: home
 ---
 <p align="center"><img align="right" width="55%" height="55%" alt="Photographic prints of Zora Neale Hurston doing a crow dance." src="https://github.com/tanyaclement/znh_jacksonville_1939/assets/1213771/e5b95e0e-40ef-42fe-8946-feb54168adb0"/></p>
-_Transcription and annotations_ by Tanya Clement, August 2021
-_Photograph_ "Zora Neale Hurston Poses from a Crow Dance," by Prentiss Taylor, Beinecke Rare Book & Manuscript Library, 1935
-_Recordings_ from the <a href="https://www.floridamemory.com/discover/audio/wpa.php">Works Progress Administration Recordings</a> collection from the Florida Memory Project.
+</br><b>Transcription and annotations</b> by Tanya Clement, August 2021
+</br><b>Photograph</b> "Zora Neale Hurston Poses from a Crow Dance," by Prentiss Taylor, Beinecke Rare Book & Manuscript Library, 1935
+</br><b>Recordings</b> from the <a href="https://www.floridamemory.com/discover/audio/wpa.php">Works Progress Administration Recordings</a> collection from the Florida Memory Project.
 
