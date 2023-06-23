@@ -27,20 +27,90 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/notes.json",
-            "label": "Notes"
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-245-canvas-1-herbert-halpert-.json",
+            "label": {
+              "none": ["Herbert Halpert "]
+            }
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/library-of-congress.json",
-            "label": "Library of Congress"
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-245-canvas-1-harold-b--hazelhurst-.json",
+            "label": {
+              "none": ["Harold B. Hazelhurst "]
+            }
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas/songs.json",
-            "label": "Songs"
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-245-canvas-1-roberts.json",
+            "label": {
+              "none": ["Roberts"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-245-canvas-1-inaudible.json",
+            "label": {
+              "none": ["Inaudible"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-245-canvas-1-art-pages.json",
+            "label": {
+              "none": ["Art Pages"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-245-canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-245-canvas-1-zora-neale-hurston.json",
+            "label": {
+              "none": ["Zora Neale Hurston"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-245-canvas-1-distortion.json",
+            "label": {
+              "none": ["Distortion"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-245-canvas-1-h--w--stuckey.json",
+            "label": {
+              "none": ["H. W. Stuckey"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-245-canvas-1-carita-doggett-corse.json",
+            "label": {
+              "none": ["Carita Doggett Corse"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-245-canvas-1-gilberto.json",
+            "label": {
+              "none": ["Gilberto"]
+            }
           }
         ],
         "items": [
