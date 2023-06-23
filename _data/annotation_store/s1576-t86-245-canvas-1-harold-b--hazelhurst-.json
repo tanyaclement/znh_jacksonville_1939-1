@@ -1,0 +1,338 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-245-canvas-1-harold-b--hazelhurst-.json",
+  "type": "AnnotationPage",
+  "label": "Harold B. Hazelhurst ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-245-canvas-1-harold-b--hazelhurst--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Oh yes, they had the same tune all the time but different wording, you know. They would make up words all the time. You see, the fellows from different railroads would come and work on this track with us and each fellow, perhaps he'd have a new verse that he'd add to the song.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Harold B. Hazelhurst",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1.699535"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-245-canvas-1-harold-b--hazelhurst--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, sing it over again? Sing it now?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Harold B. Hazelhurst",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "19.827904"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-245-canvas-1-harold-b--hazelhurst--annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Every morning about four o'clock, the foreman, the tent, sack rouster, would go around and knock on the tent with his axe handle. Says 'Alright boys, let's go back'. Says 'Let's go back boys to double track. The work ain't hard, the man ain't mean. The cook ain't nasty, but the grub ain't clean. You sleep on my good bed and you call 'em bunk. You eat my good ration, and you call it junk. So, now let's go back.'",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Harold B. Hazelhurst",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "104.167312"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-245-canvas-1-harold-b--hazelhurst--annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The tents were in circles. And each, they were built in circles so as when he'd leave the last tent, he would be at the first tent again. He'd go all around and when he stopped at the last tent, he'd be right back at the first tent again.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Harold B. Hazelhurst",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "135.962773"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-245-canvas-1-harold-b--hazelhurst--annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, he was one of the foremans on the job.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Harold B. Hazelhurst",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "155.826084"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-245-canvas-1-harold-b--hazelhurst--annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "So, they would take turns in arousing the men every morning but this particular man, he would use those phrase.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Harold B. Hazelhurst",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "158.85338"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-245-canvas-1-harold-b--hazelhurst--annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yes, he didn't have no expression whatever. [Laughter]. It was just dry.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Harold B. Hazelhurst",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "166.92617"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-245-canvas-1-harold-b--hazelhurst--annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Come on boys, let's go back to double track. The work ain't hard, and the man ain't mean. The cook ain't nasty, but the grub ain't clean. You sleep on the good beds and you call 'em bunk. You eat my good rations, and you call it junk. So, now let's go back.'",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Harold B. Hazelhurst",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "178.592767"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-245-canvas-1-harold-b--hazelhurst--annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, sometime, when the boss man wouldn't go around himself, he'd send some of the fellas, colored fellas, around to arouse the men. They'd say 'Come on boys, let's go back. Yes, you sleep on his good beds and you call 'em bunk,  You eat his good rations, and you call 'em junk. So, now if I have to call it, you want to fight. Now that white man call it, it's captain alright. Now, let's go back.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Harold B. Hazelhurst",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "203.377648"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-245-canvas-1-harold-b--hazelhurst--annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "All of these songs that I'm singing, they didn't have no particular title. We just began singing them as the feelings would come on.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Harold B. Hazelhurst",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "235.102295"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-245-canvas-1-harold-b--hazelhurst--annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, sometimes the fellas, it'd be near pay day, and some of the fellas would think about going away to another job and they began feeling good. They began singing some of these songs and this one, in particular.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Harold B. Hazelhurst",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-245/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "247.211479"
+        }
+      }
+    }
+  ]
+}
