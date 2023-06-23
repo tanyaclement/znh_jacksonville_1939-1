@@ -1,0 +1,728 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey.json",
+  "type": "AnnotationPage",
+  "label": "H.W. Stuckey",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "My name is H. W. Stuckey. I'm 43 years old. I'm a WPA instructor for the blind.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1948.364258,1957.458496"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "A missionary Baptist",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1964.488636,1966.193182"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "No sir, no sir, they do not.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1974.018595,1975.490702"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yes sir, in order to preserve these songs of my childhood days on a farm in South Carolina.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1980.407715,1985.046387"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yes sir.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "119460.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yes sir",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "119820.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It's a farm song, made up between the boys plowing on two or more plantations; one would holler 'Hallo' and the other would answer with a second 'Hallo'. That would be a signal for knocking off time for noon, for dinner.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2029.338843,2051.497934"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "About the fish vendor?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2100.503616,2102.246901"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yes, yes. Just a minute.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "126360.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "OH, yes, yes. It was usually used in the afternoon mostly when the boys were knocking off work and going in to clean up or going out to call on their girls at night.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "126720.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, it'd be in the afternoon and they usually had one big plantation a well where the boys from the different fields would water their stock. And they would be unhooking from the plowers, the planters, and distributers, and going to water their mules and put them in the lot for the night when they start these hollers.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2154.196798,2172.172004"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Possibly sometimes a quarter mile or a half a mile away",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2176.422119,2179.168701"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Shall I make an explanation of this? Yes sir.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2215.715393,2218.38843"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "during my early childhood days in Lee County, SC, my brother-in-law used to carry me about with him at night to these old fashioned dances and he called sets. They would also send for him for 10 or 15 miles around to come and call sets. And one of the songs that I remember well is like this.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2220.703125,2243.286133"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "No that's all I remember.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2282.958984,2284.790039"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Alright.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "137340.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yes sir.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "139920.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "They'd be dancing.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "140100.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "When they said do it the right, they'd be swinging their partners to the right and choosing, changing partners.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "140220.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yes sir",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "140700.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, old fashioned slow dancing is all I knew, they called it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2346.384298"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "There was an old gentleman when I was a little boy in Sumter, South Carolina, who used to go around the streets selling fish. And this was the song that he would sing in the morning as he came down Manning Avenue where I lived and other streets throughout the city and could be heard for quite a distance, several blocks, singing.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2356.201172,2373.291016"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yes, sir, I wrote, 9 or 10 years old.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2402.099609"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "During my early boyhood days I had to nurse my sister's children. I wasn't, being my sight being affected I would not work on the farm and they made me nurse the children. These are some of the songs I liked to sing with the babies in my arms in the, under the tree shade or sometimes on the porch.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2447.44873,2466.796875"
+        }
+      }
+    }
+  ]
+}

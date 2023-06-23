@@ -1,0 +1,248 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-maggie-fulton.json",
+  "type": "AnnotationPage",
+  "label": "Maggie Fulton",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-maggie-fulton-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Maggie Fulton",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Maggie Fulton",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "178800.0,179400.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-maggie-fulton-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Maggie Fulton",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Maggie Fulton",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3003.051758,3004.803719"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-maggie-fulton-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "43",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Maggie Fulton",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3006.062758,3006.740702"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-maggie-fulton-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well I learned it at my home in Leesville, South Carolina, a little childhood play. The play goes like this.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Maggie Fulton",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3011.815599,3020.841942"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-maggie-fulton-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, the children would act as if they were flying like the turkeys.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Maggie Fulton",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3040.134298,3044.201963"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-maggie-fulton-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "So they start off playing all over so if you're standing around and one would say 'Little girl, little girl have you been to the barn' and everyone said, yes Ma'am. And they answered 'Did you see my turkey?'' You say 'Yes Ma'am'. And you say 'How high did it fly' and you say 'So high' and then everybody stretched their arms up as if it was the wingspan.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Maggie Fulton",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3051.717459,3074.070248"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-maggie-fulton-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Alright",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Maggie Fulton",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "184320.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-maggie-fulton-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Just a little barnyard play",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Maggie Fulton",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "184740.0,184860.0"
+        }
+      }
+    }
+  ]
+}

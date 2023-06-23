@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-evelyn-werner.json",
+  "type": "AnnotationPage",
+  "label": "Evelyn Werner",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-evelyn-werner-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Evelyn Werner, 32.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Evelyn Werner",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1738.028537,104700.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-evelyn-werner-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I was born and raised in Jacksonville, studied voice in Chicago but never went to college.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Evelyn Werner",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "104760.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-evelyn-werner-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yes.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Evelyn Werner",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "105480.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-evelyn-werner-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, as far as the life goes, yes but I'd go to Philadelphia for a while and come back and go to Chicago for a while and come back.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Evelyn Werner",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "105900.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-evelyn-werner-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, this story was told to me two years ago by one of the heirs to the Reed Plantation, Mulberry Grove, which is just south of Jacksonville. She said that right after the war when the slaves were freed she gave, she told Mariah the cook of her freedom and gave her the house at the end of the field to live in. So Mariah and all of her children set out and the youngest and the tiniest at the end of the line would fall down and get up, fall down again and get up.  So Mrs. Pearson called to Mariah and said, 'You're losing one of your children, Mariah'. And Mariah turned back and said, 'You can have that one, Miss. Pearson, if you wants it.' That's all.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Evelyn Werner",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "107100.0"
+        }
+      }
+    }
+  ]
+}
