@@ -27,20 +27,58 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas/notes.json",
-            "label": "Notes"
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-243-june-18-1939--canvas-1-inaudible.json",
+            "label": {
+              "none": ["Inaudible"]
+            }
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas/library-of-congress.json",
-            "label": "Library of Congress"
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-243-june-18-1939--canvas-1-distortion.json",
+            "label": {
+              "none": ["Distortion"]
+            }
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas/songs.json",
-            "label": "Songs"
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-243-june-18-1939--canvas-1-library-of-congress.json",
+            "label": {
+              "none": ["Library of Congress"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-243-june-18-1939--canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-243-june-18-1939--canvas-1-instruments.json",
+            "label": {
+              "none": ["Instruments"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-243-june-18-1939--canvas-1-herbert-halpert.json",
+            "label": {
+              "none": ["Herbert Halpert"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-243-june-18-1939--canvas-1-zora-neale-hurston.json",
+            "label": {
+              "none": ["Zora Neale Hurston"]
+            }
           }
         ],
         "items": [
