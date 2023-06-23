@@ -1,12 +1,12 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://benwbrum.github.io/znh_jacksonville_1939/annotations/s1576-t86-243-june-18-1939--canvas-1-distortion.json",
+  "id": "https://benwbrum.github.io/znh_jacksonville_1939/annotations/s1576-t86-243-june-18-1939--canvas-1-inaudible.json",
   "type": "AnnotationPage",
-  "label": "Distortion",
+  "label": "Inaudible",
   "items": [
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-243-june-18-1939--canvas-1-distortion-annotation-0.json",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-inaudible-annotation-0.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -15,13 +15,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "[Distortion]",
+          "value": "[Inaudible]",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Distortion",
+          "value": "Inaudible",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -29,14 +29,14 @@
       "target": {
         "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "2508"
+          "type": "RangeSelector",
+          "t": "52.012698,60.836281"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-243-june-18-1939--canvas-1-distortion-annotation-1.json",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-inaudible-annotation-1.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -45,13 +45,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "[Distortion]",
+          "value": "[Inaudible]",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Distortion",
+          "value": "Inaudible",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -59,14 +59,14 @@
       "target": {
         "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "2673"
+          "type": "RangeSelector",
+          "t": "346.813243,359.259138"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-243-june-18-1939--canvas-1-distortion-annotation-2.json",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-inaudible-annotation-2.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -75,13 +75,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "[Distortion]",
+          "value": "[Inaudible]",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "Distortion",
+          "value": "Inaudible",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -89,8 +89,38 @@
       "target": {
         "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "2720"
+          "type": "RangeSelector",
+          "t": "943.101678,949.231746"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-inaudible-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Inaudible]",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Inaudible",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2262.041542,2273.23356"
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-243-june-18-1939--canvas-1-zora-neale-hurston.json",
+  "id": "https://benwbrum.github.io/znh_jacksonville_1939/annotations/s1576-t86-243-june-18-1939--canvas-1-zora-neale-hurston.json",
   "type": "AnnotationPage",
   "label": "Zora Neale Hurston",
   "items": [
@@ -27,7 +27,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2729.474895"
@@ -57,7 +57,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2751.045425"
@@ -87,7 +87,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2757.859455"
@@ -117,7 +117,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2766.756756"
@@ -147,7 +147,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2782.207678"
@@ -177,7 +177,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2883.072689"
@@ -207,7 +207,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2894.357071"
@@ -237,7 +237,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2903.688386"
@@ -267,7 +267,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2912.325278"
@@ -297,7 +297,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2917.70706"
@@ -327,7 +327,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2926.908171"
@@ -357,7 +357,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2940.536232"
@@ -387,7 +387,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2958.374235"
@@ -417,7 +417,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2977.297275"
@@ -447,7 +447,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2988.104241"
@@ -477,7 +477,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2998.43379"
@@ -507,7 +507,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3055.636924"
@@ -537,7 +537,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3061.71313"
@@ -567,7 +567,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3068.483759"
@@ -597,7 +597,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3081.460797"
@@ -627,7 +627,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3092.669226"
@@ -657,7 +657,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3097.562742"
@@ -687,7 +687,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3100.101728"
@@ -717,7 +717,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3112"
@@ -747,7 +747,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3142.960181"
@@ -777,7 +777,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3154.291519"
@@ -807,7 +807,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3230.73161"
@@ -837,7 +837,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3245.081542"
@@ -867,7 +867,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3362.063673,3362.992472"
@@ -897,7 +897,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3365.500227,3371.351655"
@@ -927,7 +927,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3375.066848,3376.599365"
@@ -957,7 +957,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3377.295964,3380.128798"
@@ -987,7 +987,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3385.469388,3395.639728"
@@ -1017,7 +1017,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3395.686168,3438.503764"
@@ -1047,7 +1047,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3441.568798,3444.448073"
@@ -1077,7 +1077,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3447.327347,3452.110658"
@@ -1107,7 +1107,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3455.686531,3460.376961"
@@ -1137,7 +1137,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3462.931156,3469.757823"
@@ -1167,7 +1167,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3479.928163,3507.513469"
@@ -1197,7 +1197,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3507.513469,3510.346304"
@@ -1227,7 +1227,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "3511.321542,3530.176145"
@@ -1257,7 +1257,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2787"
@@ -1287,7 +1287,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3028.728014"
@@ -1317,7 +1317,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3116.963198"
@@ -1347,7 +1347,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3157.820952"
@@ -1377,7 +1377,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "3251.30449"
