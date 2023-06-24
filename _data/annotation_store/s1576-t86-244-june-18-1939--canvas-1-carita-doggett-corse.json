@@ -1,0 +1,98 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-carita-doggett-corse.json",
+  "type": "AnnotationPage",
+  "label": "Carita Doggett Corse",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-carita-doggett-corse-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This record was made for the purpose of recording the annunciation of an educated Southern white voice. And the story was one which was recorded by the Federal Writers as part of their work for the American guide series volume that's Florida.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Carita Doggett Corse",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1844.055176,1863.15918"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-carita-doggett-corse-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"This is Mrs. Rolla Southworth, State Director of the Professional Service Projects of the WPA in Florida who will give us her opinion of the recording program of the folk songs in Florida.\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Carita Doggett Corse",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1875.427246,1890.930176"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-carita-doggett-corse-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Thank you, Ms. Southworth.\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Carita Doggett Corse",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1934.082031,1935.302734"
+        }
+      }
+    }
+  ]
+}

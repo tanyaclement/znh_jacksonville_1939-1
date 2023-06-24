@@ -1,12 +1,12 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey.json",
+  "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-songs.json",
   "type": "AnnotationPage",
-  "label": "H.W. Stuckey",
+  "label": "Songs",
   "items": [
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-0.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-0.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -15,7 +15,277 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "My name is H. W. Stuckey. I'm 43 years old. I'm a WPA instructor for the blind.",
+          "value": "Zora Neale Hurston sings 'Mule on the Mount'",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "56.404959,218.491736"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston sings 'Let the Deal Go Down'",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "625.442772,769.369835"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston sings 'Uncle Bud'",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "826.549587,953.770661"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston sings 'Oh the Buford Boat Done Come'",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "989.333678,1036.596074"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston sings 'Cuz Ever Been Down'",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1077.427686,1188.378099"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston sings 'Halimuhfack'",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1210.692149,1269.034091"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston sings 'Tampa'",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1339.630127,1386.802686"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston sings 'Po Boy'",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1438.171488,1583.057851"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston sings 'Mama Don't Want No Peas No Rice'",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Zora Neale Hurston",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1623.424587,1728.719008"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "H.W. Stuckey sings",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -30,13 +300,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1948.364258,1957.458496"
+          "t": "2000.427246,2025.309917"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-1.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-10.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -45,7 +315,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "A missionary Baptist",
+          "value": "H.W. Stuckey sings",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -60,13 +330,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1964.488636,1966.193182"
+          "t": "2057.678223,2096.126033"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-2.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-11.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -75,7 +345,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"No sir, no sir, they do not.\"",
+          "value": "H.W. Stuckey sings",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -90,13 +360,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1974.018595,1975.490702"
+          "t": "2127.01416,2148.114669"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-3.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-12.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -105,37 +375,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"Yes sir, in order to preserve these songs of my childhood days on a farm in South Carolina.\"",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "RangeSelector",
-          "t": "1980.407715,1985.046387"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-4.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Yes sir.",
+          "value": "H.W. Stuckey sings",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -150,13 +390,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "119460.0"
+          "t": "2185.180664"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-5.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-13.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -165,37 +405,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Yes sir",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "119820.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-6.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "\"It's a farm song, made up between the boys plowing on two or more plantations; one would holler 'Hallo' and the other would answer with a second 'Hallo'. That would be a signal for knocking off time for noon, for dinner.\"",
+          "value": "H.W. Stuckey sings",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -210,13 +420,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2029.338843,2051.497934"
+          "t": "2244.506836,2280.371901"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-7.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-14.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -225,7 +435,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "About the fish vendor?",
+          "value": "H.W. Stuckey sings",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -240,13 +450,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2100.503616,2102.246901"
+          "t": "2290.283203,2325.542355"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-8.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-15.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -255,67 +465,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"Yes, yes. Just a minute.\"",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "126360.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-9.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "\"OH, yes, yes. It was usually used in the afternoon mostly when the boys were knocking off work and going in to clean up or going out to call on their girls at night.\"",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "126720.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-10.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "\"Well, it'd be in the afternoon and they usually had one big plantation a well where the boys from the different fields would water their stock. And they would be unhooking from the plowers, the planters, and distributers, and going to water their mules and put them in the lot for the night when they start these hollers.\"",
+          "value": "H.W. Stuckey sings",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -330,13 +480,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2154.196798,2172.172004"
+          "t": "2374.267578,2398.527893"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-11.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-16.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -345,7 +495,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Possibly sometimes a quarter mile or a half a mile away",
+          "value": "H.W. Stuckey sings",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -360,13 +510,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2176.422119,2179.168701"
+          "t": "2411.010742,2433.238636"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-12.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-17.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -375,7 +525,7 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Shall I make an explanation of this? Yes sir.",
+          "value": "H.W. Stuckey sings",
           "format": "text/plain",
           "purpose": "commenting"
         },
@@ -390,13 +540,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2215.715393,2218.38843"
+          "t": "2468.261719,2518.078512"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-13.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-18.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -405,13 +555,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"during my early childhood days in Lee County, SC, my brother-in-law used to carry me about with him at night to these old fashioned dances and he called sets. They would also send for him for 10 or 15 miles around to come and call sets. And one of the songs that I remember well is like this.\"",
+          "value": "Irene Jackson sings",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Irene Jackson",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -420,13 +570,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2220.703125,2243.286133"
+          "t": "2579.589844,2635.769628"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-14.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-19.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -435,13 +585,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "No that's all I remember.",
+          "value": "Irene Jackson sings",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Irene Jackson",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -450,13 +600,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2282.958984,2284.790039"
+          "t": "2673.828125,2702.556818"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-15.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-20.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -465,193 +615,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Alright.",
+          "value": "Irene Jackson chants",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "137340.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-16.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Yes sir.",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "139920.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-17.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "They'd be dancing.",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "140100.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-18.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "\"When they said do it the right, they'd be swinging their partners to the right and choosing, changing partners.\"",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "140220.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-19.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Yes sir",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "140700.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-20.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "\"Well, old fashioned slow dancing is all I knew, they called it.\"",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "2346.384298"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-21.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "\"There was an old gentleman when I was a little boy in Sumter, South Carolina, who used to go around the streets selling fish. And this was the song that he would sing in the morning as he came down Manning Avenue where I lived and other streets throughout the city and could be heard for quite a distance, several blocks, singing.\"",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Irene Jackson",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -660,13 +630,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2356.201172,2373.291016"
+          "t": "2718.383789,2757.334711"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-22.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-21.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -675,13 +645,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"Yes, sir, I wrote, 9 or 10 years old.\"",
+          "value": "Alabama Singleton sings",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Alabama Singleton",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -690,13 +660,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
-          "t": "2402.099609"
+          "t": "2785.522461"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-23.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-22.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -705,13 +675,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "\"During my early boyhood days I had to nurse my sister's children. I wasn't, being my sight being affected I would not work on the farm and they made me nurse the children. These are some of the songs I liked to sing with the babies in my arms in the, under the tree shade or sometimes on the porch.\"",
+          "value": "Alabama Singleton sings",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Alabama Singleton",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -720,7 +690,157 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2447.44873,2466.796875"
+          "t": "2867.553711,2894.47314"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Alabama Singleton sings",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alabama Singleton",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2913.574219,2944.679752"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Alabama Singleton sings",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alabama Singleton",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2950.195312,2971.952479"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Maggie Fulton sings a song",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Maggie Fulton",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3078.409091,3095.764463"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Harold B. Hazelhurst sings 'The Captain's Mule'",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Harold B. Hazelhurst",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3168.595041,3228.56405"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-songs-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Harold B. Hazelhurst sings \"\"John Henry\"\"\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Harold B. Hazelhurst",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3236.77686,3300.929752"
         }
       }
     }
