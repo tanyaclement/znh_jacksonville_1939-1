@@ -1,1 +1,170 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/manifest.json","type":"Manifest","label":{"en":["S1576 , T86-244"]},"homepage":[{"id":"https://www.floridamemory.com/items/show/238022","type":"Text","label":{"en":["S1576 , T86-244"]},"format":"text/html"}],"provider":[{"id":"https://www.floridamemory.com/","type":"Agent","label":{"en":["Florida Memory Project"]}}],"items":[{"id":"https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas","type":"Canvas","duration":3400.0,"annotations":[{"type":"AnnotationPage","id":"https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas/notes.json","label":"Notes"},{"type":"AnnotationPage","id":"https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas/library-of-congress.json","label":"Library of Congress"},{"type":"AnnotationPage","id":"https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas/songs.json","label":"Songs"}],"items":[{"id":"https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/paintings","type":"AnnotationPage","items":[{"id":"https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/painting","type":"Annotation","motivation":"painting","body":{"id":"https://www.floridamemory.com/fpc/memory/Collections/folklife/folklife-MP3/T86-244.mp3","type":"Sound","format":"audio/mp3","duration":3400.0},"target":"https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas"}]}]}]}
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "S1576 , T86-244" ] },
+    "homepage": [
+      {
+        "id": "https://www.floridamemory.com/items/show/238022",
+        "type": "Text",
+        "label": { "en": [ "S1576 , T86-244" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.floridamemory.com/",
+        "type": "Agent",
+        "label": { "en": [ "Florida Memory Project" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3400.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-herbert-halpert.json",
+            "label": {
+              "none": ["Herbert Halpert"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey.json",
+            "label": {
+              "none": ["H.W. Stuckey"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-harold-b--hazelhurst.json",
+            "label": {
+              "none": ["Harold B. Hazelhurst"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-distortion.json",
+            "label": {
+              "none": ["Distortion"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-carita-doggett-corse.json",
+            "label": {
+              "none": ["Carita Doggett Corse"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-irene-jackson.json",
+            "label": {
+              "none": ["Irene Jackson"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-library-of-congress.json",
+            "label": {
+              "none": ["Library of Congress"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-beatrice-lange.json",
+            "label": {
+              "none": ["Beatrice Lange"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-alabama-singleton.json",
+            "label": {
+              "none": ["Alabama Singleton"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-evelyn-werner.json",
+            "label": {
+              "none": ["Evelyn Werner"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-games.json",
+            "label": {
+              "none": ["Games"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-rolla-southworth.json",
+            "label": {
+              "none": ["Rolla Southworth"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-songs.json",
+            "label": {
+              "none": ["Songs"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-maggie-fulton.json",
+            "label": {
+              "none": ["Maggie Fulton"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+        ],
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.floridamemory.com/fpc/memory/Collections/folklife/folklife-MP3/T86-244.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 3400.0
+                },
+                "target": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
