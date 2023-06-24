@@ -48,14 +48,6 @@
               "none": ["Library of Congress"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-243-june-18-1939--canvas-1-unknown.json",
-            "label": {
-              "none": ["Unknown"]
-            }
-          }
         ],
         "items": [
           {
