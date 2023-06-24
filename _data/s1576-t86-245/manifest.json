@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-245-canvas-1-herbert-halpert-.json",
-            "label": {
-              "none": ["Herbert Halpert "]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-245-canvas-1-harold-b--hazelhurst-.json",
             "label": {
               "none": ["Harold B. Hazelhurst "]
