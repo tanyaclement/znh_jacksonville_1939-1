@@ -39,6 +39,13 @@ collections:
   manifests:
     output: true
     permalink: /:path/manifest.json
+  annotation_pages:
+    output: true
+    permalink: /annotations/:name.json
+  terms:
+    output: true
+    permalink: /index/:path/
+
 
 
 

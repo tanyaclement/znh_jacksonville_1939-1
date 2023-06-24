@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-243-june-18-1939--canvas-1-distortion.json",
+  "id": "https://benwbrum.github.io/znh_jacksonville_1939/annotations/s1576-t86-243-june-18-1939--canvas-1-distortion.json",
   "type": "AnnotationPage",
   "label": "Distortion",
   "items": [
@@ -27,7 +27,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2508"
@@ -57,7 +57,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2673"
@@ -87,7 +87,7 @@
         }
       ],
       "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "source": "https://benwbrum.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "PointSelector",
           "t": "2720"
