@@ -7,7 +7,7 @@ layout: default-nonav
 <h3>
  <table>
   <tr>
-   <td>
+   <td valign="top">
 <p><b>Transcription and annotations</b> by Tanya Clement, August 2021
 <br/><br/><b>Photograph</b> "Zora Neale Hurston Poses from a Crow Dance," by Prentiss Taylor, Beinecke Rare Book & Manuscript Library, 1935
 <br/><br/><b>Recordings</b> from the <a href="https://www.floridamemory.com/discover/audio/wpa.php">Works Progress Administration Recordings</a> collection from the Florida Memory Project.</p>
