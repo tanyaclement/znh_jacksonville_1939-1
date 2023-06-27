@@ -21,7 +21,7 @@ layout: default-nonav
   <a href="https://tanyaclement.github.io/znh_jacksonville_1939/term_index">Index</a>
  </p>
   </td>
-  <td><p align="center"><img width="45%" height="45%" alt="Photographic prints of Zora Neale Hurston doing a crow dance." src="https://github.com/tanyaclement/znh_jacksonville_1939/assets/1213771/e5b95e0e-40ef-42fe-8946-feb54168adb0"/></p></td>
+  <td><p align="center"><img alt="Photographic prints of Zora Neale Hurston doing a crow dance." src="https://github.com/tanyaclement/znh_jacksonville_1939/assets/1213771/e5b95e0e-40ef-42fe-8946-feb54168adb0"/></p></td>
  </tr>
  </table>
 
