@@ -1,0 +1,428 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-243-june-18-1939--canvas-1-library-of-congress.json",
+  "type": "AnnotationPage",
+  "label": "Library of Congress",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-library-of-congress-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "2714 B1 and 2",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Library of Congress",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "47.568008,51.126929"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-library-of-congress-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "2715 A1 and 2",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Library of Congress",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "340.614718,343.305609"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-library-of-congress-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "2715 B1 and 2",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Library of Congress",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "637.155556,640.12771"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-library-of-congress-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "2716 A1 and 2",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Library of Congress",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "935.764172,938.179048"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-library-of-congress-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "2716 B1",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Library of Congress",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1225.049824,1228.608745"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-library-of-congress-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "2717 A1, 2, and3",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Library of Congress",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1407.770003,1411.773243"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-library-of-congress-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "2717 B1 and 2",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Library of Congress",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1668.352414,1672.258546"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-library-of-congress-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "2718 A1 and 2",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Library of Congress",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1972.857111,1976.854059"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-library-of-congress-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "2718 B1, 2 and 3",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Library of Congress",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2256.529103,2260.174826"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-library-of-congress-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "2720 A1 and 2",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Library of Congress",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2541.329533,2543.58641"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-library-of-congress-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "3135 A",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Library of Congress",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2725.959376,2727.738837"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-library-of-congress-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "3135 B1 and 2",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Library of Congress",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2968.139566"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-library-of-congress-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "3136 A",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Library of Congress",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3227.202177"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-243-june-18-1939--canvas-1-library-of-congress-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "3136 B",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Library of Congress",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-243-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3497.853968,3502.12644"
+        }
+      }
+    }
+  ]
+}
