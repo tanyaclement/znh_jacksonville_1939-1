@@ -1,12 +1,12 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey.json",
+  "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-beatrice-lange.json",
   "type": "AnnotationPage",
-  "label": "H.W. Stuckey",
+  "label": "Beatrice Lange",
   "items": [
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-0.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-0.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -15,13 +15,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "My name is H. W. Stuckey. I'm 43 years old. I'm a WPA instructor for the blind.",
+          "value": "Beatrice Lange.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -30,13 +30,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1948.364258,1957.458496"
+          "t": "248.360021,249.677169"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-1.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-1.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -45,13 +45,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "A missionary Baptist",
+          "value": "I came from South Georgia.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -60,13 +60,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1964.488636,1966.193182"
+          "t": "252.272727,254.713326"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-2.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-2.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -75,13 +75,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "No sir, no sir, they do not.",
+          "value": "Woodbine.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -90,13 +90,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1974.018595,1975.490702"
+          "t": "256.68905,257.425103"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-3.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-3.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -105,13 +105,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Yes sir, in order to preserve these songs of my childhood days on a farm in South Carolina.",
+          "value": "35",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -120,13 +120,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1980.407715,1985.046387"
+          "t": "259.207128,259.943182"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-4.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-4.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -135,73 +135,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Yes sir.",
+          "value": "Well, I'm going to tell some folk stories that my brother-in-law told me.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "119460.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-5.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Yes sir",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "119820.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-6.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "It's a farm song, made up between the boys plowing on two or more plantations; one would holler 'Hallo' and the other would answer with a second 'Hallo'. That would be a signal for knocking off time for noon, for dinner.",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -210,13 +150,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2029.338843,2051.497934"
+          "t": "262.383781,266.761364"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-7.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-5.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -225,13 +165,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "About the fish vendor?",
+          "value": "About a year ago.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -240,13 +180,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2100.503616,2102.246901"
+          "t": "268.620868,270.247934"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-8.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-6.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -255,73 +195,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Yes, yes. Just a minute.",
+          "value": "Well, it happened longer than that but he told me about a year ago.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "126360.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-9.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "OH, yes, yes. It was usually used in the afternoon mostly when the boys were knocking off work and going in to clean up or going out to call on their girls at night.",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "126720.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-10.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Well, it'd be in the afternoon and they usually had one big plantation a well where the boys from the different fields would water their stock. And they would be unhooking from the plowers, the planters, and distributers, and going to water their mules and put them in the lot for the night when they start these hollers.",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -330,13 +210,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2154.196798,2172.172004"
+          "t": "271.410124,274.625517"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-11.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-7.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -345,13 +225,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Possibly sometimes a quarter mile or a half a mile away",
+          "value": "I mean that the story happened longer than that.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -360,13 +240,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2176.422119,2179.168701"
+          "t": "277.376033,280.475207"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-12.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-8.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -375,13 +255,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Shall I make an explanation of this? Yes sir.",
+          "value": "Well, this old negro of his told him about it. The negro belonged to his father.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -390,13 +270,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2215.715393,2218.38843"
+          "t": "282.141012,286.867252"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-13.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-9.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -405,13 +285,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "during my early childhood days in Lee County, SC, my brother-in-law used to carry me about with him at night to these old fashioned dances and he called sets. They would also send for him for 10 or 15 miles around to come and call sets. And one of the songs that I remember well is like this.",
+          "value": "Who had a rice plantation.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -420,13 +300,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2220.703125,2243.286133"
+          "t": "287.874483,289.114153"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-14.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-10.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -435,13 +315,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "No that's all I remember.",
+          "value": "About six months to a year ago.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -450,13 +330,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2282.958984,2284.790039"
+          "t": "293.143079,296.203512"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-15.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-11.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -465,193 +345,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Alright.",
+          "value": "Yes, while he was working with him.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "137340.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-16.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Yes sir.",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "139920.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-17.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "They'd be dancing.",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "140100.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-18.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "When they said do it the right, they'd be swinging their partners to the right and choosing, changing partners.",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "140220.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-19.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Yes sir",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "140700.0"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-20.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "Well, old fashioned slow dancing is all I knew, they called it.",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "2346.384298"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-21.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "There was an old gentleman when I was a little boy in Sumter, South Carolina, who used to go around the streets selling fish. And this was the song that he would sing in the morning as he came down Manning Avenue where I lived and other streets throughout the city and could be heard for quite a distance, several blocks, singing.",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -660,13 +360,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2356.201172,2373.291016"
+          "t": "298.566632,300.929752"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-22.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-12.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -675,43 +375,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "Yes, sir, I wrote, 9 or 10 years old.",
+          "value": "Well, uh, it's a storm story, a hurricane story.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "2402.099609"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-23.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "During my early boyhood days I had to nurse my sister's children. I wasn't, being my sight being affected I would not work on the farm and they made me nurse the children. These are some of the songs I liked to sing with the babies in my arms in the, under the tree shade or sometimes on the porch.",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -720,13 +390,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2447.44873,2466.796875"
+          "t": "307.05062,310.653409"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-24.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-13.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -735,13 +405,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey sings",
+          "value": "I have several stories though. This is just one.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -750,13 +420,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2000.427246,2025.309917"
+          "t": "312.629132,315.689566"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-25.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-14.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -765,13 +435,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey sings",
+          "value": "Alright, sir.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -780,13 +450,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2057.678223,2096.126033"
+          "t": "318.440083,319.098657"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-26.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-15.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -795,13 +465,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey sings",
+          "value": "Well I can kind of glance at it.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -810,13 +480,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2127.01416,2148.114669"
+          "t": "322.31405,323.786157"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-27.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-16.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -825,43 +495,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey sings",
+          "value": "Uh, this story happened during the fall of 1898 upon a small island off of the coast of Georgia",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
-      "target": {
-        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
-        "selector": {
-          "type": "PointSelector",
-          "t": "2185.180664"
-        }
-      }
-    },
-    {
-      "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-28.json",
-      "type": "Annotation",
-      "motivation": [
-        "supplementing",
-        "commenting"
-      ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey sings",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -870,13 +510,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2244.506836,2280.371901"
+          "t": "326.652893,333.626033"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-29.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-17.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -885,13 +525,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey sings",
+          "value": "Where the sea level was very low. Came a hurricane which covered the whole island in several feet of water and most of the natives had to swim around in their homes.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -900,13 +540,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2290.283203,2325.542355"
+          "t": "334.207128,343.155992"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-30.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-18.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -915,13 +555,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey sings",
+          "value": "One particular instance which calls to mind is that of an old negrum owned by one of the early rice planters.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -930,13 +570,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2374.267578,2398.527893"
+          "t": "343.543388,350.40031"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-31.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-19.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -945,13 +585,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey sings",
+          "value": "He tells: Yes sir, we were swimming around in that water trying to find a shallow place when we seen some of them pretty long neck bottles floating around. Look like them water in 'em.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -960,13 +600,13 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2411.010742,2433.238636"
+          "t": "351.252583,362.332128"
         }
       }
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "s1576-t86-244-june-18-1939--canvas-1-h-w--stuckey-annotation-32.json",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-20.json",
       "type": "Annotation",
       "motivation": [
         "supplementing",
@@ -975,13 +615,13 @@
       "body": [
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey sings",
+          "value": "So we drink some and before long we was glad to have some been come because it sure made us feel good. Sure wish I could have some of that stuff now. Boss, I believe that been shampoo.",
           "format": "text/plain",
           "purpose": "commenting"
         },
         {
           "type": "TextualBody",
-          "value": "H.W. Stuckey",
+          "value": "Beatrice Lange",
           "format": "text/plain",
           "purpose": "tagging"
         }
@@ -990,7 +630,277 @@
         "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "2468.261719,2518.078512"
+          "t": "362.874483,376.510847"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Further on the flooded plantation, the boss paddled his canoe up to the loft of the barn.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Beatrice Lange",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "377.556818,382.166839"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "There sat another of his n-- with a big stick in his hand as if he was going to strike something. Even that the hole in the side of the barn where the [inaudible] was stored had looked as if a board had been torn off. He glanced over in the corner and there'n a pile of dead coons which looked like a hundred or so.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Beatrice Lange",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "382.554236,401.497934"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "As the boss approached, he said, 'By grade, Tom, what have you been doing here?' He replied in a dramatic voice, 'Boss, I's just been praying all the time, how's that good for the ole master to come take this water back where it belong so we's could get back to work. Boss, I've been a praying every chance that I'm got to liberation.' 'Well, from the looks of the coons you killed, you didn't have time to pray much, Tom'. 'Mass Donald,  I wouldn't have killed 'em but they kept barring me from praying all the time.'",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Beatrice Lange",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "401.497934,433.57438"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Another story I told of an old native of Georgia came to Florida in the nineties to seek adventure. This old cracker who really lived in the backwoods had a name of being the biggest liar in the country.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Beatrice Lange",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "433.57438,446.126033"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Just let me glance at it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Beatrice Lange",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "451.007231,452.169421"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Laughter]",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Beatrice Lange",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "452.866736,453.951446"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "He said me and my son Israel, we went down to Floridy to pick oranges. Huh. They grow so big you can fill a water bucket full with four of 'em.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Beatrice Lange",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "456.198347,467.58781"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The alligators, they were so tame, and I bet we had about a hundred and fifty, every day we went down to the palmetto patch and whistled and they would come running under the palmetto patch at me and crawl up on my shoulders and talk to me.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Beatrice Lange",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "468.285124,484.478306"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "s1576-t86-244-june-18-1939--canvas-1-beatrice-lange-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Why down there we cut down the palmetto trees to make fence posts and they is the best you ever seen. They would last a hundred years. I know because I tried them twice.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Beatrice Lange",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://tanyaclement.github.io/znh_jacksonville_1939/s1576-t86-244-june-18-1939-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "486.105372,496.177686"
         }
       }
     }
