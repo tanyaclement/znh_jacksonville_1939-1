@@ -43,14 +43,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-beatrice-lange.json",
-            "label": {
-              "none": ["Beatrice Lange"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/znh_jacksonville_1939/annotations/s1576-t86-244-june-18-1939--canvas-1-alabama-singleton.json",
             "label": {
               "none": ["Alabama Singleton"]
