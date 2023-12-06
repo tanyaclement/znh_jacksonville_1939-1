@@ -5,7 +5,7 @@
 layout: default-nonav
 ---
 <h3>
- <table>
+ <table border="0">
   <tr>
    <td valign="top" width="50%">
 <p><b>Transcription and annotations</b> by Tanya Clement
