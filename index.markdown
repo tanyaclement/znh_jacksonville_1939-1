@@ -8,7 +8,7 @@ layout: default-nonav
  <table cellpadding="0" cellspacing="0" border="0">
   <tr>
    <td valign="top" width="50%">
-<p><b>Transcription and annotations</b> by Tanya Clement
+<p><b>Transcription and annotations</b> by Tanya Clement (testing)
 <br/><br/><b>Recordings</b> from the <a href="https://www.floridamemory.com/discover/audio/wpa.php">Works Progress Administration Recordings</a> collection from the Florida Memory Project.</p>
  <p>
    <a href="https://tanyaclement.github.io/znh_jacksonville_1939/introduction">Introduction</a>
