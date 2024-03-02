@@ -20,7 +20,7 @@ layout: default-nonav
   <a href="https://tanyaclement.github.io/znh_jacksonville_1939/term_index">Index</a>
  </p>
   </td>
-  <td width="50%"><p align="center"><img width="75%" height="75%" alt="Photographic prints of Zora Neale Hurston doing a crow dance." src="https://github.com/tanyaclement/znh_jacksonville_1939/assets/1213771/e5b95e0e-40ef-42fe-8946-feb54168adb0"/><br/>
+  <td width="50%"><p align="center"><img width="75%" height="75%" alt="Photographic prints of Zora Neale Hurston doing a crow dance." src="https://github.com/tanyaclement/znh_jacksonville_1939-1/assets/1213771/e5b95e0e-40ef-42fe-8946-feb54168adb0"/><br/>
   "Zora Neale Hurston Poses from a Crow Dance," by Prentiss Taylor, Beinecke Rare Book & Manuscript Library, 1935
   </p></td>
  </tr>
